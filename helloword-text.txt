@@ -2,6 +2,9 @@ Hello World!
 
 Li Shaotuo is a stupid!uasdifiasdadsfa,xihuan 222
 
+<<<<<<< HEAD
 aaa
 bbb
 c
+=======
+>>>>>>> parent of 2b7260b... add_3a
