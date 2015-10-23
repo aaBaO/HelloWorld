@@ -12,3 +12,4 @@ git study hard!
 git study hard!Once again!
 git new a branch fork-test5.
 gti new a branch fork-test6.
+git test client pull request,commit from command line.
