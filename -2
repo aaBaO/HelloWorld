@@ -1,0 +1,301 @@
+[33mcommit d0b869768c14f9c1a6139ff753e8636466c7a42c[m
+Merge: 72f93c2 f084d33
+Author: Kim <100904679@qq.com>
+Date:   Tue Oct 13 15:17:24 2015 +0800
+
+    Merge pull request #4 from summitn/new-branch-tutorial1.0
+    
+    New branch tutorial1 0
+
+[33mcommit f084d3356d8864cf7b07e27a82844e6efe36ddc3[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:16:22 2015 +0800
+
+    add_3e
+
+[33mcommit cfdd56a024d07281196a6442da6bf7a9dc662d4b[m
+Merge: 00dc1e9 72f93c2
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:14:55 2015 +0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/master' into new-branch-tutorial1.0
+
+[33mcommit 72f93c2b3f57e4725d94034b98e35a1ea7bd7e9d[m
+Merge: 9329e96 00dc1e9
+Author: Kim <100904679@qq.com>
+Date:   Tue Oct 13 15:12:11 2015 +0800
+
+    Merge pull request #3 from summitn/new-branch-tutorial1.0
+    
+    add_3d
+
+[33mcommit 00dc1e935f5d0ee35c1dc8df01d7d6e702a46b60[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:10:32 2015 +0800
+
+    add_3d
+    
+    add_3d
+
+[33mcommit 9329e96cb1e2f37329ce572353aa6e60579ba9fd[m
+Merge: 28a25e9 645cde8
+Author: Kim <100904679@qq.com>
+Date:   Tue Oct 13 15:05:59 2015 +0800
+
+    Merge pull request #2 from summitn/adda
+    
+    Adda
+    add3c
+
+[33mcommit 645cde84d6367fe677804662d5ae2d092596e017[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:04:25 2015 +0800
+
+    add3c
+
+[33mcommit e4c3a3ef0d9c0b3801dea046bf4a6517f1ef16f8[m
+Merge: 428a388 aa51bb7
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:03:30 2015 +0800
+
+    Merge remote-tracking branch 'refs/remotes/NexTrigger/master' into adda
+
+[33mcommit 428a38804b29bcf28a43f8e2c479e73e42b8ce2e[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:02:23 2015 +0800
+
+    Revert "add_c"
+    
+    This reverts commit c77b80bf3dbe9dec75e024d20aa23eaa48f73c28.
+
+[33mcommit 9cd9b3ef757d09dba10332e6bc132146d5171a1d[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:02:06 2015 +0800
+
+    Revert "Revert "add_3a""
+    
+    This reverts commit b931f4ddc0006a06173ac70608ab6ddf74757b3e.
+
+[33mcommit b931f4ddc0006a06173ac70608ab6ddf74757b3e[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 15:01:39 2015 +0800
+
+    Revert "add_3a"
+    
+    This reverts commit 2b7260b727ee917fbced14e5fd2cfe86a94c6b6a.
+    
+    Conflicts:
+    	helloword-text.txt
+
+[33mcommit 28a25e9ad2b488f64ec82911ffc4fa277b299142[m
+Merge: d8b56ca 228cd9e
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 14:50:16 2015 +0800
+
+    Merge branch 'master' of https://github.com/summitn/HelloWorld
+
+[33mcommit d8b56ca236e04a8b6458101eecb6c01815941091[m
+Merge: 727b8fc aa51bb7
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 14:50:07 2015 +0800
+
+    Merge remote-tracking branch 'refs/remotes/NexTrigger/master'
+
+[33mcommit c77b80bf3dbe9dec75e024d20aa23eaa48f73c28[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 14:48:39 2015 +0800
+
+    add_c
+
+[33mcommit 228cd9ebbcbca25afdd50e276e7ba2ba66cf3a85[m
+Merge: 727b8fc 074e6c9
+Author: Kim <100904679@qq.com>
+Date:   Tue Oct 13 14:47:44 2015 +0800
+
+    Merge pull request #1 from summitn/adda
+    
+    Adda
+
+[33mcommit 074e6c9000c6f1832679470afd82386d1f48b928[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 14:46:20 2015 +0800
+
+    add_3b
+
+[33mcommit aa51bb70ac7dfa8121bd276d448bf925fa3e6772[m
+Merge: 727b8fc 2b7260b
+Author: aaBaO <bxh883@qq.com>
+Date:   Tue Oct 13 14:44:41 2015 +0800
+
+    Merge pull request #7 from summitn/adda
+    
+    add_3a
+
+[33mcommit 2b7260b727ee917fbced14e5fd2cfe86a94c6b6a[m
+Author: summitn <100904679@qq.com>
+Date:   Tue Oct 13 14:43:30 2015 +0800
+
+    add_3a
+
+[33mcommit 727b8fcfa0aae5e39d12330c24f82a4eecd99c5c[m
+Merge: e674a8e 947aa09
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 15:12:41 2015 +0800
+
+    Merge branch 'master' of https://github.com/NexTrigger/HelloWorld
+
+[33mcommit e674a8eb16f48a1df0326007bf830172ab4d3eb3[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 15:02:42 2015 +0800
+
+    create a html in testing branch of another local respository.
+
+[33mcommit 947aa09bc4ab161111ec120578a2398cff42003a[m
+Merge: e5b1687 e935d00
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 14:07:28 2015 +0800
+
+    solve a conflict
+
+[33mcommit e5b1687cdbd884b7a8a86182ab0f55df914122bd[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:53:43 2015 +0800
+
+    master made a change in index.html
+
+[33mcommit e935d0052527c5c9079e32fa13d07177a7aa05d4[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:52:00 2015 +0800
+
+    b1 made change
+
+[33mcommit 81ca94a0e6abe7128cbee6db8864cb7b36398aaf[m
+Merge: 0d10b0b 0c1d6f7
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:38:44 2015 +0800
+
+    Merge branch 'iss53'
+
+[33mcommit 0c1d6f760c0ba9704810142b92cc8737b436f0c5[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:37:14 2015 +0800
+
+    finished the new footer [issue 53]
+
+[33mcommit 0d10b0bc728f23708b054c5fdc66599e08451aef[m
+Merge: 0643c33 a5b46c1
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:34:27 2015 +0800
+
+    Merge branch 'iss53'
+
+[33mcommit 0643c33d5b6978cd38b3de48f69639d2a4534e61[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:24:27 2015 +0800
+
+    fixed the broken email address
+
+[33mcommit a5b46c1f7c807b8db42e06f997375683735b5ce9[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:20:16 2015 +0800
+
+    added a new footer [issue 53]
+
+[33mcommit 029564d51c4525fb5cef431959f2d2caecdbbe53[m
+Author: AttoLee <attochina@gmail.com>
+Date:   Sat Oct 10 11:06:08 2015 +0800
+
+    made other changes
+
+[33mcommit b1e291316cf6b7a06a8ae7c6607aebb0a46bcd1e[m
+Merge: 3a271d3 62204bc
+Author: aaBaO <bxh883@qq.com>
+Date:   Fri Sep 25 11:54:51 2015 +0800
+
+    Merge pull request #1 from NexTrigger/abao-branch-hello
+    
+    add hello world one more
+
+[33mcommit 62204bc71e875d7f23c951db4f73478603d65b21[m
+Merge: 6078465 3a271d3
+Author: aaBaO <abao883@gmail.com>
+Date:   Fri Sep 25 11:53:26 2015 +0800
+
+    solve a conflict
+    
+    #修改了同一个文件的相同位置，产生了冲突
+    
+    该如何避免？
+
+[33mcommit 6078465f13b0f456f7495a6c0254f42a3f949e84[m
+Merge: dbddd4f ab32803
+Author: 李绍托 <attochina@gmail.com>
+Date:   Tue Sep 22 16:07:03 2015 +0800
+
+    Merge pull request #2 from NexTrigger/dev-branch
+    
+    markdown
+
+[33mcommit 3a271d3629d0b34cafe99b2f9da058e3ab6eecbc[m
+Merge: 39dc24b 902a1b8
+Author: 李绍托 <attochina@gmail.com>
+Date:   Tue Sep 22 16:06:43 2015 +0800
+
+    Merge pull request #5 from NexTrigger/addaline-xihuan22
+    
+    addline
+
+[33mcommit 39dc24b79a20b13a5fd06da359a66007223ce3a2[m
+Merge: 4b3b33f 2cd699d
+Author: 李绍托 <attochina@gmail.com>
+Date:   Tue Sep 22 16:05:45 2015 +0800
+
+    Merge pull request #6 from NexTrigger/readme-edits
+    
+    Create README.md
+
+[33mcommit 2cd699d3a22cc0a8059dc28c7ac28976e68b464c[m
+Author: 李绍托 <attochina@gmail.com>
+Date:   Tue Sep 22 16:02:04 2015 +0800
+
+    Create README.md
+
+[33mcommit 902a1b805bbc70968d05344d31d1f0cc03999d47[m
+Author: forever00010110 <zhu3925535>
+Date:   Tue Sep 22 12:03:09 2015 +0800
+
+    addline
+    
+    add line   nima
+
+[33mcommit ab328036d70f8f862b0cb0246108944db31e9f41[m
+Author: aaBaO <abao883@gmail.com>
+Date:   Thu Sep 17 17:00:14 2015 +0800
+
+    markdown
+    
+    markdown sample
+
+[33mcommit dbddd4ffddacf810c18bfed2f606d192d731990b[m
+Author: aaBaO <abao883@gmail.com>
+Date:   Thu Sep 17 11:14:23 2015 +0800
+
+    add one
+    
+    add a line
+
+[33mcommit d4719a0964c6730b6a485af5f55e177489397ebb[m
+Author: aaBaO <abao883@gmail.com>
+Date:   Thu Sep 17 10:56:04 2015 +0800
+
+    add hello world one more
+    
+    add a hello world more
+
+[33mcommit 4b3b33fdf91fcfa0ca36085c623f1a9bac3c2fc9[m
+Author: aaBaO <abao883@gmail.com>
+Date:   Thu Sep 17 10:42:48 2015 +0800
+
+    add hello world
+    
+    add first test

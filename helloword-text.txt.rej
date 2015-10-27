@@ -1,0 +1,10 @@
+diff a/helloword-text.txt b/helloword-text.txt	(rejected hunks)
+@@ -3,4 +3,5 @@
+ Li Shaotuo is a stupid!uasdifiasdadsfa,xihuan 222
+ 
+ aaa
+-bbb
+\ No newline at end of file
++bbb
++c
+\ No newline at end of file
